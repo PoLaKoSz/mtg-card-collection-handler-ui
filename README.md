@@ -8,7 +8,7 @@ MTG Card Collection Handler is a website where You can browse through the wise c
 
 > This repository holds only the front-end code written with React and Bootstrap.
 >
-> If You want to search and list cards, register and login, [setup the back-end](https://github.com/Szpoti/mtg-card-collection-handler-server#setup) too.
+> If You want to search and list cards, register and login, [setup the back-end](https://github.com/PoLaKoSz/mtg-card-collection-handler-server#setup) too.
 
 ## Technologies
 
